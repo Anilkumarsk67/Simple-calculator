@@ -4,3 +4,4 @@ Addition
 Substraction
 Multiplication
 Division
+It is designed using HTML,CSS and JAVASCRIPT
